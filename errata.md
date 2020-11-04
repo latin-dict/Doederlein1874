@@ -1,3 +1,7 @@
+# Hand-book of Latin Synonymes, Döderlein (1875)
+
+## Errata
+
 1. Article "Lutum": "sodes" changed to "sordes"
 1. Article "Præda": "prædia" changed to "prædæ"
 1. Article "Pridem": "diutunus" changed to "diuturnus"
